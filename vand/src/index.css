@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background: black;
+  background: url('https://www.investopedia.com/thmb/sjBT96knXNjzJtOZT4U1hJTl0C8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/BestLoans_inkoly-9954436c95fd49f1854f7efec535c941.jpg');
+  background-size: cover;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

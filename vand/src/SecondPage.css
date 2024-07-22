@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+form>div>div>label{
+    margin-right:10px;
+    font-family: "Georgia", serif;
+    color: black;
+}
+.box{
+    background: white;
+    width: 230%;
+    padding-top: 13px;
+    margin-left:100px;
+    margin-top:50px;
+    padding-bottom: 30px;
+    box-shadow: 0 0 20px 5px #a4ebf7, inset 0 0 20px 5px #a4ebf7;
+    border-radius: 10px;
+    height:500px;
+}
+form>div>.sss{
+    margin-top: 10px;
+    text-align: right;
+    margin-right:100px;
+    margin-top:30px;
+}
+form>div>div>input{
+    background-color: #f0f0f0;
+    width:250px;
+}
+.secondimage{
+    padding-bottom:50px;
+}
+h1{
+    text-align: center;
+    color: black;
+    /* font-family: "Lucida Handwriting",cursive; */
+    /* text-shadow: 0 0 15px #a4ebf7; */
+}
+ 
+#button{
+    text-align: right;
+    margin-right: 40px;
+    /* border-radius: 20px; */
+    margin-top: 20px;
+    
+    
+}
+
+h2{
+    color:aliceblue;
+}
+button{
+    border-radius: 10px;
+    padding:5px;
+    border: 2px solid #091a49;
+    color: #a4ebf7;
+    background: #091a49;
+}
+button:hover {
+    color: #091a49;
+    background: #a4ebf7;
+    transition: 0.6s;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.error{
+    color:red;
+    height:12px;
+}
+
+.bbb{
+    display: flex;
+    gap:20px;
+    align-items: center;
+    padding-right: 100px;
+    /* justify-content: center; */
+} 
+#para2{
+    margin-left:100px;
+}
+#para2 p{
+    color:#a4ebf7;
+    text-shadow: 0 0 15px #a4ebf7;
+    font-family: 'Play', sans-serif;
+    font-size: 15px;
+    width:350px;
+}
+.content{
+    margin-right:-60px;
+    margin-left:20px;
+}
+.buss{
+    margin-right:50px;
+}
+.cibil{
+    margin-right:115px;
+}
+.minsales{
+    margin-right: 80px;
+}
+.income{
+    margin-right: 140px;
+}
+.age{
+    margin-right: 165px;
+}
